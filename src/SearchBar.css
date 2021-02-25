@@ -1,0 +1,16 @@
+.search-container {
+    width: 300px;
+    display: flex;
+    flex-flow: column wrap;
+    margin: auto;
+}
+
+.query-container label {
+    float: left;
+}
+
+.query-container input {
+    margin: 10px 0px;
+    height: 30px;
+    width: 100%;
+}

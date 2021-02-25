@@ -1,0 +1,3485 @@
+{
+  "hits":[
+     {
+        "ProductId":"a203e50e-23b9-4def-b87f-9fb8f2ff2a14",
+        "Name":"MUFFIN/CAKE MIX, Banana w/ Almond Flour, Simple Mills",
+        "Description":"SIMPLE MILLS, 9 oz",
+        "Sku":"100000021880",
+        "Upc":"856069005001",
+        "MerchRank":null,
+        "TaxCodeId":"7c3467bb-2114-437d-a0a8-dbde743627a4",
+        "SearchKeywords":null,
+        "Tags":[
+           {
+              "TagId":"2f31f8cb-c194-4a9b-8307-4f3bb67f00a3",
+              "CommonId":"FNIHE",
+              "Name":"Gluten Free",
+              "Hidden":false
+           },
+           {
+              "TagId":"8919a1bc-6720-4857-b2d0-cac13d3ae8ed",
+              "CommonId":"K5ZN8",
+              "Name":"Non-GMO",
+              "Hidden":false
+           },
+           {
+              "TagId":"c4850474-ac73-4d29-848f-b069d39731ce",
+              "CommonId":"ZU7YK",
+              "Name":"Paleo",
+              "Hidden":false
+           },
+           {
+              "TagId":"c1113a82-b24d-4a44-aa57-eb7852ad7b3a",
+              "CommonId":"SHZU9",
+              "Name":"Plant-Based",
+              "Hidden":false
+           },
+           {
+              "TagId":"424655cd-a346-4d0c-9a59-1de1a2db28a9",
+              "CommonId":"CQDAI",
+              "Name":"Vegan",
+              "Hidden":false
+           },
+           {
+              "TagId":"51f70953-97c3-4617-a0f2-1f8a01ee48bb",
+              "CommonId":"PLQYS",
+              "Name":"Vegetarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"50d0d27e-e70a-451d-8433-5e295acc24ea",
+              "CommonId":"CJPI8",
+              "Name":"Pescatarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"5dfc5dfc-41dd-41b0-8fed-57c36afddd63",
+              "CommonId":"UPY71",
+              "Name":"Contains Tree Nuts",
+              "Hidden":false
+           }
+        ],
+        "Categories":[
+           {
+              "CategoryId":"175bb405-86b7-43fd-bdf3-840ffb7ef534",
+              "CommonId":"YNMO9",
+              "Name":"Baking",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"2e1f16e9-56cc-45ef-bb93-7e28a6830919",
+              "ParentCommonId":"M5MNC",
+              "ParentName":"Pantry",
+              "IsLeaf":true
+           },
+           {
+              "CategoryId":"2e1f16e9-56cc-45ef-bb93-7e28a6830919",
+              "CommonId":"M5MNC",
+              "Name":"Pantry",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"1f8989ee-f4cf-4bae-938e-f1d4bff6f55e",
+              "ParentCommonId":"RAYJH",
+              "ParentName":"Grocery",
+              "IsLeaf":false
+           }
+        ],
+        "Variants":[
+           {
+              "ProductVariantId":"6d732e65-7c3a-4f09-82d0-76ed63d3e237",
+              "ExternalVariantId":null,
+              "Name":null,
+              "RawUnitDescription":null,
+              "RealUnit":null,
+              "RealUnitFormatted":null,
+              "RealUnitAmount":null,
+              "RealUnitAmountIsApprox":false,
+              "PackageUnit":null,
+              "PackageUnitFormatted":null,
+              "PackageUnitAmount":null,
+              "NavFk":null,
+              "AllowRecurring":false,
+              "Archived":false,
+              "IsBundle":false
+           }
+        ],
+        "Archived":false,
+        "ingredients":"Almond Flour, Banana, Organic Coconut Sugar, Arrowroot, Organic Coconut Flour, Baking Soda, Sea Salt.",
+        "nutrition":[
+           {
+              "Calories":{
+                 "uom":"",
+                 "amount":"90.00",
+                 "dailyPct":""
+              },
+              "Calories from Fat":{
+                 "uom":"",
+                 "amount":"30.00",
+                 "dailyPct":""
+              },
+              "Total Fat":{
+                 "uom":"g",
+                 "amount":"3.00",
+                 "dailyPct":"5.00"
+              },
+              "Saturated Fat":{
+                 "uom":"g",
+                 "amount":"0.00",
+                 "dailyPct":"0.00"
+              },
+              "Cholesterol":{
+                 "uom":"mg",
+                 "amount":"0.00",
+                 "dailyPct":"0.00"
+              },
+              "Sodium":{
+                 "uom":"mg",
+                 "amount":"130.00",
+                 "dailyPct":"5.00"
+              },
+              "Total Carbohydrate":{
+                 "uom":"g",
+                 "amount":"14.00",
+                 "dailyPct":"5.00"
+              },
+              "Dietary Fiber":{
+                 "uom":"g",
+                 "amount":"2.00",
+                 "dailyPct":"8.00"
+              },
+              "Sugars":{
+                 "uom":"g",
+                 "amount":"7.00",
+                 "dailyPct":""
+              },
+              "Protein":{
+                 "uom":"g",
+                 "amount":"2.00",
+                 "dailyPct":"4.00"
+              },
+              "Vitamin A":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"0.00"
+              },
+              "Vitamin C":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"2.00"
+              },
+              "Calcium":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"2.00"
+              },
+              "Iron":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"4.00"
+              },
+              "Kosher":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "Vitamin E":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"6.00"
+              },
+              "Copper":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"4.00"
+              },
+              "Magnesium":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"4.00"
+              },
+              "Manganese":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"4.00"
+              },
+              "Trans Fat":{
+                 "uom":"g",
+                 "amount":"0.00",
+                 "dailyPct":"0.00"
+              },
+              "Gluten Free":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "ServingSize-InGrams":{
+                 "uom":"g",
+                 "amount":"21.00",
+                 "dailyPct":""
+              },
+              "Milk":{
+                 "uom":"",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "Tree Nut":{
+                 "uom":"",
+                 "amount":"1.00",
+                 "dailyPct":""
+              },
+              "Soy":{
+                 "uom":"",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "Gluten":{
+                 "uom":"",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "Dairy Free":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "MetricServingSize":{
+                 "uom":"g",
+                 "amount":"21.00",
+                 "dailyPct":""
+              }
+           }
+        ],
+        "Options":null,
+        "AltImages":[
+           
+        ],
+        "Sorts":{
+           
+        },
+        "LeadTimeHours":null,
+        "Edges":{
+           "Searchandizings":[
+              {
+                 "SearchandizingId":"bb8274bc-2282-4587-81cd-e8a200f16d0e"
+              },
+              {
+                 "SearchandizingId":"9e44edbe-276f-4c5f-9664-85c6867d866e"
+              },
+              {
+                 "SearchandizingId":"9cb4fa28-030c-4da4-81f2-246a950ca098"
+              },
+              {
+                 "SearchandizingId":"8f740b3c-a393-44e7-9311-ac48ea9d76a0"
+              },
+              {
+                 "SearchandizingId":"435c7868-9fc0-4c3c-bf23-38aa798da748"
+              },
+              {
+                 "SearchandizingId":"38803041-7f7f-48d1-bb41-55f307385fb9"
+              },
+              {
+                 "SearchandizingId":"225ed77f-661a-4f21-b6f6-258e2d9ce76d"
+              }
+           ]
+        },
+        "Image":{
+           "ImageId":"b5d38393-4127-4277-b38b-2d2c24867fbb",
+           "Filename":"v1583372458/staging/products/choice-market/856069005001",
+           "Type":null
+        },
+        "HasModifiers":false,
+        "Brand":null,
+        "_highlightResult":{
+           "ProductId":{
+              "value":"a203e50e-23b9-4def-b87f-9fb8f2ff2a14",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"MUFFIN/CAKE MIX, Banana w/ Almond Flour, Simple Mills",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Description":{
+              "value":"SIMPLE MILLS, 9 oz",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Upc":{
+              "value":"856069005001",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"FNIHE",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Gluten Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"K5ZN8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Non-GMO",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"ZU7YK",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Paleo",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"SHZU9",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Plant-Based",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CQDAI",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegan",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"UPY71",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Tree Nuts",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Baking",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Pantry",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"6d732e65-7c3a-4f09-82d0-76ed63d3e237",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"bb8274bc-2282-4587-81cd-e8a200f16d0e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9e44edbe-276f-4c5f-9664-85c6867d866e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        },
+        "MadeToOrder":false,
+        "MinimumAgeToPurchase":null,
+        "AlternateLookups":[
+           
+        ],
+        "TimeRestrictions":null,
+        "objectID":"a203e50e-23b9-4def-b87f-9fb8f2ff2a14",
+        "_highlightResult":{
+           "ProductId":{
+              "value":"a203e50e-23b9-4def-b87f-9fb8f2ff2a14",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"MUFFIN/<em>CAK</em>E MIX, Banana w/ Almond Flour, Simple Mills",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "cak"
+              ]
+           },
+           "Description":{
+              "value":"SIMPLE MILLS, 9 oz",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Upc":{
+              "value":"856069005001",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"FNIHE",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Gluten Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"K5ZN8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Non-GMO",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"ZU7YK",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Paleo",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"SHZU9",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Plant-Based",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CQDAI",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegan",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"UPY71",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Tree Nuts",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Baking",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Pantry",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"6d732e65-7c3a-4f09-82d0-76ed63d3e237",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"bb8274bc-2282-4587-81cd-e8a200f16d0e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9e44edbe-276f-4c5f-9664-85c6867d866e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9cb4fa28-030c-4da4-81f2-246a950ca098",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"8f740b3c-a393-44e7-9311-ac48ea9d76a0",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"435c7868-9fc0-4c3c-bf23-38aa798da748",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"38803041-7f7f-48d1-bb41-55f307385fb9",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"225ed77f-661a-4f21-b6f6-258e2d9ce76d",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        }
+     },
+     {
+        "ProductId":"883d4a29-3f97-453f-ae68-dcd6527618a2",
+        "Name":"MUFFIN/CAKE MIX, Chocolate w/ Almond Flour, Simple Mills",
+        "Description":"SIMPLE MILLS, 10 oz",
+        "Sku":"100000021897",
+        "Upc":"856069005025",
+        "MerchRank":null,
+        "TaxCodeId":"7c3467bb-2114-437d-a0a8-dbde743627a4",
+        "SearchKeywords":null,
+        "Tags":[
+           {
+              "TagId":"2f31f8cb-c194-4a9b-8307-4f3bb67f00a3",
+              "CommonId":"FNIHE",
+              "Name":"Gluten Free",
+              "Hidden":false
+           },
+           {
+              "TagId":"8919a1bc-6720-4857-b2d0-cac13d3ae8ed",
+              "CommonId":"K5ZN8",
+              "Name":"Non-GMO",
+              "Hidden":false
+           },
+           {
+              "TagId":"c4850474-ac73-4d29-848f-b069d39731ce",
+              "CommonId":"ZU7YK",
+              "Name":"Paleo",
+              "Hidden":false
+           },
+           {
+              "TagId":"c1113a82-b24d-4a44-aa57-eb7852ad7b3a",
+              "CommonId":"SHZU9",
+              "Name":"Plant-Based",
+              "Hidden":false
+           },
+           {
+              "TagId":"424655cd-a346-4d0c-9a59-1de1a2db28a9",
+              "CommonId":"CQDAI",
+              "Name":"Vegan",
+              "Hidden":false
+           },
+           {
+              "TagId":"51f70953-97c3-4617-a0f2-1f8a01ee48bb",
+              "CommonId":"PLQYS",
+              "Name":"Vegetarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"50d0d27e-e70a-451d-8433-5e295acc24ea",
+              "CommonId":"CJPI8",
+              "Name":"Pescatarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"5dfc5dfc-41dd-41b0-8fed-57c36afddd63",
+              "CommonId":"UPY71",
+              "Name":"Contains Tree Nuts",
+              "Hidden":false
+           }
+        ],
+        "Categories":[
+           {
+              "CategoryId":"175bb405-86b7-43fd-bdf3-840ffb7ef534",
+              "CommonId":"YNMO9",
+              "Name":"Baking",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"2e1f16e9-56cc-45ef-bb93-7e28a6830919",
+              "ParentCommonId":"M5MNC",
+              "ParentName":"Pantry",
+              "IsLeaf":true
+           },
+           {
+              "CategoryId":"2e1f16e9-56cc-45ef-bb93-7e28a6830919",
+              "CommonId":"M5MNC",
+              "Name":"Pantry",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"1f8989ee-f4cf-4bae-938e-f1d4bff6f55e",
+              "ParentCommonId":"RAYJH",
+              "ParentName":"Grocery",
+              "IsLeaf":false
+           }
+        ],
+        "Variants":[
+           {
+              "ProductVariantId":"8ca83e9a-9a91-4a30-a6f3-efa978542afc",
+              "ExternalVariantId":null,
+              "Name":null,
+              "RawUnitDescription":null,
+              "RealUnit":null,
+              "RealUnitFormatted":null,
+              "RealUnitAmount":null,
+              "RealUnitAmountIsApprox":false,
+              "PackageUnit":null,
+              "PackageUnitFormatted":null,
+              "PackageUnitAmount":null,
+              "NavFk":null,
+              "AllowRecurring":false,
+              "Archived":false,
+              "IsBundle":false
+           }
+        ],
+        "Archived":false,
+        "ingredients":"Almond Flour, Organic Coconut Sugar, Cocoa, Arrowroot, Organic Coconut Flour, Baking Soda, Sea Salt. ",
+        "nutrition":[
+           {
+              "Calories":{
+                 "uom":"",
+                 "amount":"110.00",
+                 "dailyPct":""
+              },
+              "Calories from Fat":{
+                 "uom":"",
+                 "amount":"45.00",
+                 "dailyPct":""
+              },
+              "Total Fat":{
+                 "uom":"g",
+                 "amount":"5.00",
+                 "dailyPct":"8.00"
+              },
+              "Saturated Fat":{
+                 "uom":"g",
+                 "amount":"0.00",
+                 "dailyPct":"0.00"
+              },
+              "Cholesterol":{
+                 "uom":"mg",
+                 "amount":"0.00",
+                 "dailyPct":"0.00"
+              },
+              "Sodium":{
+                 "uom":"mg",
+                 "amount":"240.00",
+                 "dailyPct":"10.00"
+              },
+              "Total Carbohydrate":{
+                 "uom":"g",
+                 "amount":"14.00",
+                 "dailyPct":"5.00"
+              },
+              "Dietary Fiber":{
+                 "uom":"g",
+                 "amount":"2.00",
+                 "dailyPct":"8.00"
+              },
+              "Sugars":{
+                 "uom":"g",
+                 "amount":"8.00",
+                 "dailyPct":""
+              },
+              "Protein":{
+                 "uom":"g",
+                 "amount":"3.00",
+                 "dailyPct":"6.00"
+              },
+              "Vitamin A":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"0.00"
+              },
+              "Vitamin C":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"2.00"
+              },
+              "Calcium":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"2.00"
+              },
+              "Iron":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"8.00"
+              },
+              "Kosher":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "Vitamin E":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"10.00"
+              },
+              "Copper":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"10.00"
+              },
+              "Magnesium":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"10.00"
+              },
+              "Manganese":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"15.00"
+              },
+              "Trans Fat":{
+                 "uom":"g",
+                 "amount":"0.00",
+                 "dailyPct":"0.00"
+              },
+              "Gluten Free":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "ServingSize-InGrams":{
+                 "uom":"g",
+                 "amount":"25.00",
+                 "dailyPct":""
+              },
+              "Milk":{
+                 "uom":"",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "Tree Nut":{
+                 "uom":"",
+                 "amount":"1.00",
+                 "dailyPct":""
+              },
+              "Soy":{
+                 "uom":"",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "Gluten":{
+                 "uom":"",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "Dairy Free":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "MetricServingSize":{
+                 "uom":"g",
+                 "amount":"25.00",
+                 "dailyPct":""
+              }
+           }
+        ],
+        "Options":null,
+        "AltImages":[
+           
+        ],
+        "Sorts":{
+           
+        },
+        "LeadTimeHours":null,
+        "Edges":{
+           "Searchandizings":[
+              {
+                 "SearchandizingId":"bb8274bc-2282-4587-81cd-e8a200f16d0e"
+              },
+              {
+                 "SearchandizingId":"9e44edbe-276f-4c5f-9664-85c6867d866e"
+              },
+              {
+                 "SearchandizingId":"9cb4fa28-030c-4da4-81f2-246a950ca098"
+              },
+              {
+                 "SearchandizingId":"8f740b3c-a393-44e7-9311-ac48ea9d76a0"
+              },
+              {
+                 "SearchandizingId":"435c7868-9fc0-4c3c-bf23-38aa798da748"
+              },
+              {
+                 "SearchandizingId":"38803041-7f7f-48d1-bb41-55f307385fb9"
+              },
+              {
+                 "SearchandizingId":"225ed77f-661a-4f21-b6f6-258e2d9ce76d"
+              }
+           ]
+        },
+        "Image":{
+           "ImageId":"d46c7e91-da98-4020-8f60-61e0bda3366b",
+           "Filename":"v1583372464/staging/products/choice-market/856069005025",
+           "Type":null
+        },
+        "HasModifiers":false,
+        "Brand":null,
+        "_highlightResult":{
+           "ProductId":{
+              "value":"883d4a29-3f97-453f-ae68-dcd6527618a2",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"MUFFIN/CAKE MIX, Chocolate w/ Almond Flour, Simple Mills",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Description":{
+              "value":"SIMPLE MILLS, 10 oz",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Upc":{
+              "value":"856069005025",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"FNIHE",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Gluten Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"K5ZN8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Non-GMO",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"ZU7YK",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Paleo",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"SHZU9",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Plant-Based",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CQDAI",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegan",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"UPY71",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Tree Nuts",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Baking",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Pantry",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"8ca83e9a-9a91-4a30-a6f3-efa978542afc",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"bb8274bc-2282-4587-81cd-e8a200f16d0e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9e44edbe-276f-4c5f-9664-85c6867d866e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        },
+        "MadeToOrder":false,
+        "MinimumAgeToPurchase":null,
+        "AlternateLookups":[
+           
+        ],
+        "TimeRestrictions":null,
+        "objectID":"883d4a29-3f97-453f-ae68-dcd6527618a2",
+        "_highlightResult":{
+           "ProductId":{
+              "value":"883d4a29-3f97-453f-ae68-dcd6527618a2",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"MUFFIN/<em>CAK</em>E MIX, Chocolate w/ Almond Flour, Simple Mills",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "cak"
+              ]
+           },
+           "Description":{
+              "value":"SIMPLE MILLS, 10 oz",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Upc":{
+              "value":"856069005025",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"FNIHE",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Gluten Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"K5ZN8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Non-GMO",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"ZU7YK",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Paleo",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"SHZU9",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Plant-Based",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CQDAI",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegan",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"UPY71",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Tree Nuts",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Baking",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Pantry",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"8ca83e9a-9a91-4a30-a6f3-efa978542afc",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"bb8274bc-2282-4587-81cd-e8a200f16d0e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9e44edbe-276f-4c5f-9664-85c6867d866e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9cb4fa28-030c-4da4-81f2-246a950ca098",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"8f740b3c-a393-44e7-9311-ac48ea9d76a0",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"435c7868-9fc0-4c3c-bf23-38aa798da748",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"38803041-7f7f-48d1-bb41-55f307385fb9",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"225ed77f-661a-4f21-b6f6-258e2d9ce76d",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        }
+     },
+     {
+        "ProductId":"0deedef1-9d05-4da0-8c9f-52339785f221",
+        "Name":"GF CAKE MIX, Pamela's, Vanilla",
+        "Description":"PAMELA'S PRODUCTS, 21 oz, wheat free",
+        "Sku":"100000021712",
+        "Upc":"093709300205",
+        "MerchRank":null,
+        "TaxCodeId":"7c3467bb-2114-437d-a0a8-dbde743627a4",
+        "SearchKeywords":null,
+        "Tags":[
+           {
+              "TagId":"2f31f8cb-c194-4a9b-8307-4f3bb67f00a3",
+              "CommonId":"FNIHE",
+              "Name":"Gluten Free",
+              "Hidden":false
+           },
+           {
+              "TagId":"8919a1bc-6720-4857-b2d0-cac13d3ae8ed",
+              "CommonId":"K5ZN8",
+              "Name":"Non-GMO",
+              "Hidden":false
+           },
+           {
+              "TagId":"c1113a82-b24d-4a44-aa57-eb7852ad7b3a",
+              "CommonId":"SHZU9",
+              "Name":"Plant-Based",
+              "Hidden":false
+           },
+           {
+              "TagId":"424655cd-a346-4d0c-9a59-1de1a2db28a9",
+              "CommonId":"CQDAI",
+              "Name":"Vegan",
+              "Hidden":false
+           },
+           {
+              "TagId":"51f70953-97c3-4617-a0f2-1f8a01ee48bb",
+              "CommonId":"PLQYS",
+              "Name":"Vegetarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"50d0d27e-e70a-451d-8433-5e295acc24ea",
+              "CommonId":"CJPI8",
+              "Name":"Pescatarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"34d17e36-8366-49e4-8a09-eaa7f939fea2",
+              "CommonId":"4U1EH",
+              "Name":"Major 8 Alergen Free",
+              "Hidden":false
+           },
+           {
+              "TagId":"0d9eae95-a963-4548-bd47-f53e81f6e649",
+              "CommonId":"A1IKN",
+              "Name":"Artificical Preservatives",
+              "Hidden":false
+           }
+        ],
+        "Categories":[
+           {
+              "CategoryId":"175bb405-86b7-43fd-bdf3-840ffb7ef534",
+              "CommonId":"YNMO9",
+              "Name":"Baking",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"2e1f16e9-56cc-45ef-bb93-7e28a6830919",
+              "ParentCommonId":"M5MNC",
+              "ParentName":"Pantry",
+              "IsLeaf":true
+           },
+           {
+              "CategoryId":"2e1f16e9-56cc-45ef-bb93-7e28a6830919",
+              "CommonId":"M5MNC",
+              "Name":"Pantry",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"1f8989ee-f4cf-4bae-938e-f1d4bff6f55e",
+              "ParentCommonId":"RAYJH",
+              "ParentName":"Grocery",
+              "IsLeaf":false
+           }
+        ],
+        "Variants":[
+           {
+              "ProductVariantId":"2d7446f9-7fc6-4547-a768-081c638f4879",
+              "ExternalVariantId":null,
+              "Name":null,
+              "RawUnitDescription":null,
+              "RealUnit":null,
+              "RealUnitFormatted":null,
+              "RealUnitAmount":null,
+              "RealUnitAmountIsApprox":false,
+              "PackageUnit":null,
+              "PackageUnitFormatted":null,
+              "PackageUnitAmount":null,
+              "NavFk":null,
+              "AllowRecurring":false,
+              "Archived":false,
+              "IsBundle":false
+           }
+        ],
+        "Archived":false,
+        "ingredients":"Evaporated Cane Sugar, Tapioca Starch, White Rice Flour, Potato Starch, Inulin, Grainless & Aluminum-Free Baking Powder (Sodium Acid Pyrophosphate, Potato Starch, Sodium Bicarbonate), Rice Bran, Sea Salt, Powdered Vanilla Flavor, Xanthan Gum.",
+        "nutrition":[
+           {
+              "Calories":{
+                 "uom":"",
+                 "amount":"250.00",
+                 "dailyPct":""
+              },
+              "Calories from Fat":{
+                 "uom":"",
+                 "amount":"90.00",
+                 "dailyPct":""
+              },
+              "Total Fat":{
+                 "uom":"g",
+                 "amount":"10.00",
+                 "dailyPct":"17.00"
+              },
+              "Saturated Fat":{
+                 "uom":"g",
+                 "amount":"1.00",
+                 "dailyPct":"5.00"
+              },
+              "Cholesterol":{
+                 "uom":"mg",
+                 "amount":"35.00",
+                 "dailyPct":"12.00"
+              },
+              "Sodium":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"18.00"
+              },
+              "Total Carbohydrate":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"12.00"
+              },
+              "Dietary Fiber":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"4.00"
+              },
+              "Sugars":{
+                 "uom":"g",
+                 "amount":"20.00",
+                 "dailyPct":""
+              },
+              "Protein":{
+                 "uom":"g",
+                 "amount":"2.00",
+                 "dailyPct":""
+              },
+              "Vitamin A":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"0.00"
+              },
+              "Vitamin C":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"0.00"
+              },
+              "Calcium":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"2.00"
+              },
+              "Iron":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"2.00"
+              },
+              "Kosher":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "Trans Fat":{
+                 "uom":"g",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "Gluten Free":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "ServingSize-InGrams":{
+                 "uom":"g",
+                 "amount":"50.00",
+                 "dailyPct":""
+              },
+              "Milk":{
+                 "uom":"",
+                 "amount":"2.00",
+                 "dailyPct":""
+              },
+              "Egg":{
+                 "uom":"",
+                 "amount":"2.00",
+                 "dailyPct":""
+              },
+              "Tree Nut":{
+                 "uom":"",
+                 "amount":"2.00",
+                 "dailyPct":""
+              },
+              "Soy":{
+                 "uom":"",
+                 "amount":"2.00",
+                 "dailyPct":""
+              },
+              "Wheat":{
+                 "uom":"",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "Gluten":{
+                 "uom":"",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "MetricServingSize":{
+                 "uom":"g",
+                 "amount":"50.00",
+                 "dailyPct":""
+              },
+              "ServingSize_Prepared":{
+                 "uom":"cake",
+                 "amount":"0.08",
+                 "dailyPct":""
+              }
+           }
+        ],
+        "Options":null,
+        "AltImages":[
+           
+        ],
+        "Sorts":{
+           
+        },
+        "LeadTimeHours":null,
+        "Edges":{
+           "Searchandizings":[
+              {
+                 "SearchandizingId":"bb8274bc-2282-4587-81cd-e8a200f16d0e"
+              },
+              {
+                 "SearchandizingId":"b6da5a4c-25a1-4e26-a132-34a76d5250a9"
+              },
+              {
+                 "SearchandizingId":"9e44edbe-276f-4c5f-9664-85c6867d866e"
+              },
+              {
+                 "SearchandizingId":"9cb4fa28-030c-4da4-81f2-246a950ca098"
+              },
+              {
+                 "SearchandizingId":"958904ee-9524-4ac3-9a27-f4335f3c0f12"
+              },
+              {
+                 "SearchandizingId":"435c7868-9fc0-4c3c-bf23-38aa798da748"
+              },
+              {
+                 "SearchandizingId":"38803041-7f7f-48d1-bb41-55f307385fb9"
+              }
+           ]
+        },
+        "Image":{
+           "ImageId":"d057c4b2-be34-4a90-b703-7ccdfb9376fc",
+           "Filename":"v1583372463/staging/products/choice-market/093709300205",
+           "Type":null
+        },
+        "HasModifiers":false,
+        "Brand":null,
+        "_highlightResult":{
+           "ProductId":{
+              "value":"0deedef1-9d05-4da0-8c9f-52339785f221",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"GF CAKE MIX, Pamela's, Vanilla",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Description":{
+              "value":"PAMELA'S PRODUCTS, 21 oz, wheat free",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Upc":{
+              "value":"093709300205",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"FNIHE",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Gluten Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"K5ZN8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Non-GMO",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"SHZU9",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Plant-Based",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CQDAI",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegan",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"4U1EH",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Major 8 Alergen Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"A1IKN",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Artificical Preservatives",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Baking",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Pantry",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"2d7446f9-7fc6-4547-a768-081c638f4879",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"bb8274bc-2282-4587-81cd-e8a200f16d0e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9e44edbe-276f-4c5f-9664-85c6867d866e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"b6da5a4c-25a1-4e26-a132-34a76d5250a9",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        },
+        "MadeToOrder":false,
+        "MinimumAgeToPurchase":null,
+        "AlternateLookups":[
+           
+        ],
+        "TimeRestrictions":null,
+        "objectID":"0deedef1-9d05-4da0-8c9f-52339785f221",
+        "_highlightResult":{
+           "ProductId":{
+              "value":"0deedef1-9d05-4da0-8c9f-52339785f221",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"GF <em>CAK</em>E MIX, Pamela's, Vanilla",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "cak"
+              ]
+           },
+           "Description":{
+              "value":"PAMELA'S PRODUCTS, 21 oz, wheat free",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Upc":{
+              "value":"093709300205",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"FNIHE",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Gluten Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"K5ZN8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Non-GMO",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"SHZU9",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Plant-Based",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CQDAI",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegan",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"4U1EH",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Major 8 Alergen Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"A1IKN",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Artificical Preservatives",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Baking",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Pantry",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"2d7446f9-7fc6-4547-a768-081c638f4879",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"bb8274bc-2282-4587-81cd-e8a200f16d0e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"b6da5a4c-25a1-4e26-a132-34a76d5250a9",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9e44edbe-276f-4c5f-9664-85c6867d866e",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9cb4fa28-030c-4da4-81f2-246a950ca098",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"958904ee-9524-4ac3-9a27-f4335f3c0f12",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"435c7868-9fc0-4c3c-bf23-38aa798da748",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"38803041-7f7f-48d1-bb41-55f307385fb9",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        }
+     },
+     {
+        "ProductId":"481ab9ad-6eed-453b-8607-116ea43125f3",
+        "Name":"POPCORN, Maddy & Maize, Birthday Cake",
+        "Description":null,
+        "Sku":"100000055854",
+        "Upc":"855686007061",
+        "MerchRank":null,
+        "TaxCodeId":null,
+        "SearchKeywords":null,
+        "Tags":[
+           {
+              "TagId":"c1113a82-b24d-4a44-aa57-eb7852ad7b3a",
+              "CommonId":"SHZU9",
+              "Name":"Plant-Based",
+              "Hidden":false
+           },
+           {
+              "TagId":"424655cd-a346-4d0c-9a59-1de1a2db28a9",
+              "CommonId":"CQDAI",
+              "Name":"Vegan",
+              "Hidden":false
+           },
+           {
+              "TagId":"51f70953-97c3-4617-a0f2-1f8a01ee48bb",
+              "CommonId":"PLQYS",
+              "Name":"Vegetarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"50d0d27e-e70a-451d-8433-5e295acc24ea",
+              "CommonId":"CJPI8",
+              "Name":"Pescatarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"34d17e36-8366-49e4-8a09-eaa7f939fea2",
+              "CommonId":"4U1EH",
+              "Name":"Major 8 Alergen Free",
+              "Hidden":false
+           }
+        ],
+        "Categories":[
+           {
+              "CategoryId":"5f0ea5a7-e037-4973-a419-be96764915da",
+              "CommonId":"104P4",
+              "Name":"Popcorn",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"cbc9554c-b0bf-4570-a819-0fdd37229f49",
+              "ParentCommonId":"RGZDM",
+              "ParentName":"Snacks",
+              "IsLeaf":true
+           },
+           {
+              "CategoryId":"cbc9554c-b0bf-4570-a819-0fdd37229f49",
+              "CommonId":"RGZDM",
+              "Name":"Snacks",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"4da454f6-bc8f-48c9-831d-337bc4c46935",
+              "ParentCommonId":"SXGOU",
+              "ParentName":"Gluten Free",
+              "IsLeaf":false
+           }
+        ],
+        "Variants":[
+           {
+              "ProductVariantId":"c2eef731-0978-419f-954d-0cb47ce7fcb5",
+              "ExternalVariantId":null,
+              "Name":null,
+              "RawUnitDescription":null,
+              "RealUnit":null,
+              "RealUnitFormatted":null,
+              "RealUnitAmount":null,
+              "RealUnitAmountIsApprox":false,
+              "PackageUnit":null,
+              "PackageUnitFormatted":null,
+              "PackageUnitAmount":null,
+              "NavFk":null,
+              "AllowRecurring":false,
+              "Archived":false,
+              "IsBundle":false
+           }
+        ],
+        "Archived":false,
+        "ingredients":null,
+        "nutrition":null,
+        "Options":null,
+        "AltImages":[
+           
+        ],
+        "Sorts":{
+           
+        },
+        "LeadTimeHours":null,
+        "Edges":{
+           "Searchandizings":[
+              {
+                 "SearchandizingId":"ffa0b04a-dbe9-41ad-adcd-48f457f5fea5"
+              },
+              {
+                 "SearchandizingId":"b6da5a4c-25a1-4e26-a132-34a76d5250a9"
+              },
+              {
+                 "SearchandizingId":"af2397a6-176d-429a-a141-8a21b760354c"
+              },
+              {
+                 "SearchandizingId":"9cb4fa28-030c-4da4-81f2-246a950ca098"
+              },
+              {
+                 "SearchandizingId":"435c7868-9fc0-4c3c-bf23-38aa798da748"
+              }
+           ]
+        },
+        "HasModifiers":false,
+        "_highlightResult":{
+           "ProductId":{
+              "value":"481ab9ad-6eed-453b-8607-116ea43125f3",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"POPCORN, Maddy & Maize, Birthday Cake",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Upc":{
+              "value":"855686007061",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"SHZU9",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Plant-Based",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CQDAI",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegan",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"4U1EH",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Major 8 Alergen Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Popcorn",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Snacks",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"c2eef731-0978-419f-954d-0cb47ce7fcb5",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"ffa0b04a-dbe9-41ad-adcd-48f457f5fea5",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"af2397a6-176d-429a-a141-8a21b760354c",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        },
+        "MadeToOrder":false,
+        "Image":null,
+        "Brand":null,
+        "MinimumAgeToPurchase":null,
+        "AlternateLookups":[
+           
+        ],
+        "TimeRestrictions":null,
+        "objectID":"481ab9ad-6eed-453b-8607-116ea43125f3",
+        "_highlightResult":{
+           "ProductId":{
+              "value":"481ab9ad-6eed-453b-8607-116ea43125f3",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"POPCORN, Maddy & Maize, Birthday <em>Cak</em>e",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "cak"
+              ]
+           },
+           "Upc":{
+              "value":"855686007061",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"SHZU9",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Plant-Based",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CQDAI",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegan",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"4U1EH",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Major 8 Alergen Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Popcorn",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Snacks",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"c2eef731-0978-419f-954d-0cb47ce7fcb5",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"ffa0b04a-dbe9-41ad-adcd-48f457f5fea5",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"b6da5a4c-25a1-4e26-a132-34a76d5250a9",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"af2397a6-176d-429a-a141-8a21b760354c",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9cb4fa28-030c-4da4-81f2-246a950ca098",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"435c7868-9fc0-4c3c-bf23-38aa798da748",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        }
+     },
+     {
+        "ProductId":"27d6efe9-dfe5-4cd1-a2b7-984ceb7619a8",
+        "Name":"ICE CREAM, Halo Top, Birthday Cake",
+        "Description":"Pint",
+        "Sku":"100000040881",
+        "Upc":"858089003128",
+        "MerchRank":null,
+        "TaxCodeId":"7c3467bb-2114-437d-a0a8-dbde743627a4",
+        "SearchKeywords":null,
+        "Tags":[
+           {
+              "TagId":"2f31f8cb-c194-4a9b-8307-4f3bb67f00a3",
+              "CommonId":"FNIHE",
+              "Name":"Gluten Free",
+              "Hidden":false
+           },
+           {
+              "TagId":"51f70953-97c3-4617-a0f2-1f8a01ee48bb",
+              "CommonId":"PLQYS",
+              "Name":"Vegetarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"50d0d27e-e70a-451d-8433-5e295acc24ea",
+              "CommonId":"CJPI8",
+              "Name":"Pescatarian",
+              "Hidden":false
+           },
+           {
+              "TagId":"35365a92-034b-42e9-9f5f-1807e0f500e4",
+              "CommonId":"BH6QG",
+              "Name":"Contains Egg",
+              "Hidden":false
+           },
+           {
+              "TagId":"536bccad-0326-4b6f-9aae-0e59e9bd4f09",
+              "CommonId":"FL0FG",
+              "Name":"Contains Milk",
+              "Hidden":false
+           },
+           {
+              "TagId":"aa721558-ef80-47ec-8384-37f9a0fc7c7d",
+              "CommonId":"CS01V",
+              "Name":"Contains Soy",
+              "Hidden":false
+           },
+           {
+              "TagId":"13e3e127-4d56-41f3-bc60-87a47e321363",
+              "CommonId":"0OV8R",
+              "Name":"Sugar Alcohols",
+              "Hidden":false
+           }
+        ],
+        "Categories":[
+           {
+              "CategoryId":"25048457-1600-42f9-a97b-0269923017e8",
+              "CommonId":"2I9F2",
+              "Name":"Desserts",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"f6dab976-74b5-4ab5-a0ed-8fc98ba1e9d7",
+              "ParentCommonId":"R6VWL",
+              "ParentName":"Frozen",
+              "IsLeaf":true
+           },
+           {
+              "CategoryId":"f6dab976-74b5-4ab5-a0ed-8fc98ba1e9d7",
+              "CommonId":"R6VWL",
+              "Name":"Frozen",
+              "ThumbnailUrl":null,
+              "OrderBy":null,
+              "ParentId":"260c2b4f-58b8-4313-8c25-737fa5b6d610",
+              "ParentCommonId":"RVGOO",
+              "ParentName":"Plant-Based",
+              "IsLeaf":false
+           }
+        ],
+        "Variants":[
+           {
+              "ProductVariantId":"52648a7a-6cb0-4107-8d53-220eb12b24c3",
+              "ExternalVariantId":null,
+              "Name":null,
+              "RawUnitDescription":null,
+              "RealUnit":null,
+              "RealUnitFormatted":null,
+              "RealUnitAmount":null,
+              "RealUnitAmountIsApprox":false,
+              "PackageUnit":null,
+              "PackageUnitFormatted":null,
+              "PackageUnitAmount":null,
+              "NavFk":null,
+              "AllowRecurring":false,
+              "Archived":false,
+              "IsBundle":false
+           }
+        ],
+        "Archived":false,
+        "ingredients":"Skim Milk, Eggs, Erythritol, Prebiotic Fiber, Milk Protein Concentrate, Cream, Organic Cane Sugar, Vegetable Glycerin, Rainbow Sprinkles (Sugar, Corn Starch, Palm Oil and Palm Kernel Oil, Turmeric (Color), Annatto (Color), Beet Juice (Color), Vegetable Juices (Color), Beta Carotene (Color)), Natural Flavor, Sea Salt, Organic Carob Gum, Organic Guar Gum, Organic Stevia Leaf Extract.",
+        "nutrition":[
+           {
+              "Calories":{
+                 "uom":"",
+                 "amount":"70.00",
+                 "dailyPct":""
+              },
+              "Calories from Fat":{
+                 "uom":"",
+                 "amount":"20.00",
+                 "dailyPct":""
+              },
+              "Total Fat":{
+                 "uom":"g",
+                 "amount":"2.50",
+                 "dailyPct":"4.00"
+              },
+              "Saturated Fat":{
+                 "uom":"g",
+                 "amount":"1.00",
+                 "dailyPct":"5.00"
+              },
+              "Cholesterol":{
+                 "uom":"mg",
+                 "amount":"45.00",
+                 "dailyPct":"15.00"
+              },
+              "Sodium":{
+                 "uom":"mg",
+                 "amount":"110.00",
+                 "dailyPct":"5.00"
+              },
+              "Total Carbohydrate":{
+                 "uom":"g",
+                 "amount":"14.00",
+                 "dailyPct":"5.00"
+              },
+              "Dietary Fiber":{
+                 "uom":"g",
+                 "amount":"3.00",
+                 "dailyPct":"12.00"
+              },
+              "Sugars":{
+                 "uom":"g",
+                 "amount":"6.00",
+                 "dailyPct":""
+              },
+              "Sugar Alcohol":{
+                 "uom":"g",
+                 "amount":"5.00",
+                 "dailyPct":""
+              },
+              "Protein":{
+                 "uom":"g",
+                 "amount":"5.00",
+                 "dailyPct":"10.00"
+              },
+              "Vitamin A":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"2.00"
+              },
+              "Vitamin C":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"0.00"
+              },
+              "Calcium":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"10.00"
+              },
+              "Iron":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":"2.00"
+              },
+              "Kosher":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "Trans Fat":{
+                 "uom":"g",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "Gluten Free":{
+                 "uom":"",
+                 "amount":"",
+                 "dailyPct":""
+              },
+              "ServingSize-InGrams":{
+                 "uom":"g",
+                 "amount":"64.00",
+                 "dailyPct":""
+              },
+              "Milk":{
+                 "uom":"",
+                 "amount":"1.00",
+                 "dailyPct":""
+              },
+              "Egg":{
+                 "uom":"",
+                 "amount":"1.00",
+                 "dailyPct":""
+              },
+              "Peanut":{
+                 "uom":"",
+                 "amount":"2.00",
+                 "dailyPct":""
+              },
+              "Tree Nut":{
+                 "uom":"",
+                 "amount":"2.00",
+                 "dailyPct":""
+              },
+              "Soy":{
+                 "uom":"",
+                 "amount":"2.00",
+                 "dailyPct":""
+              },
+              "Wheat":{
+                 "uom":"",
+                 "amount":"2.00",
+                 "dailyPct":""
+              },
+              "Gluten":{
+                 "uom":"",
+                 "amount":"0.00",
+                 "dailyPct":""
+              },
+              "MetricServingSize":{
+                 "uom":"g",
+                 "amount":"64.00",
+                 "dailyPct":""
+              }
+           }
+        ],
+        "Options":null,
+        "AltImages":[
+           
+        ],
+        "Sorts":{
+           
+        },
+        "LeadTimeHours":null,
+        "Edges":{
+           "Searchandizings":[
+              {
+                 "SearchandizingId":"f21eb4f5-679c-4b75-bf8c-39d65c676ae1"
+              },
+              {
+                 "SearchandizingId":"e51ae63f-e600-4385-bd92-fdcf023b9f81"
+              },
+              {
+                 "SearchandizingId":"ad9dcbf9-561c-41d2-981f-fff7a9c1df79"
+              },
+              {
+                 "SearchandizingId":"9cb4fa28-030c-4da4-81f2-246a950ca098"
+              },
+              {
+                 "SearchandizingId":"435c7868-9fc0-4c3c-bf23-38aa798da748"
+              }
+           ]
+        },
+        "Image":{
+           "ImageId":"48740cbe-3af4-45b6-bfda-afdd1d8f2885",
+           "Filename":"v1583372760/staging/products/choice-market/858089003128",
+           "Type":null
+        },
+        "HasModifiers":false,
+        "Brand":null,
+        "_highlightResult":{
+           "ProductId":{
+              "value":"27d6efe9-dfe5-4cd1-a2b7-984ceb7619a8",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"ICE CREAM, Halo Top, Birthday Cake",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Description":{
+              "value":"Pint",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Upc":{
+              "value":"858089003128",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"FNIHE",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Gluten Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"BH6QG",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Egg",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"FL0FG",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Milk",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CS01V",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Soy",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"0OV8R",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Sugar Alcohols",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Desserts",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Frozen",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"52648a7a-6cb0-4107-8d53-220eb12b24c3",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"f21eb4f5-679c-4b75-bf8c-39d65c676ae1",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"e51ae63f-e600-4385-bd92-fdcf023b9f81",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        },
+        "MadeToOrder":false,
+        "MinimumAgeToPurchase":null,
+        "AlternateLookups":[
+           
+        ],
+        "TimeRestrictions":null,
+        "objectID":"27d6efe9-dfe5-4cd1-a2b7-984ceb7619a8",
+        "_highlightResult":{
+           "ProductId":{
+              "value":"27d6efe9-dfe5-4cd1-a2b7-984ceb7619a8",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Name":{
+              "value":"ICE CREAM, Halo Top, Birthday <em>Cak</em>e",
+              "matchLevel":"full",
+              "fullyHighlighted":false,
+              "matchedWords":[
+                 "cak"
+              ]
+           },
+           "Description":{
+              "value":"Pint",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Upc":{
+              "value":"858089003128",
+              "matchLevel":"none",
+              "matchedWords":[
+                 
+              ]
+           },
+           "Tags":[
+              {
+                 "CommonId":{
+                    "value":"FNIHE",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Gluten Free",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"PLQYS",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Vegetarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CJPI8",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Pescatarian",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"BH6QG",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Egg",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"FL0FG",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Milk",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"CS01V",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Contains Soy",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "CommonId":{
+                    "value":"0OV8R",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 },
+                 "Name":{
+                    "value":"Sugar Alcohols",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Categories":[
+              {
+                 "Name":{
+                    "value":"Desserts",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              },
+              {
+                 "Name":{
+                    "value":"Frozen",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Variants":[
+              {
+                 "ProductVariantId":{
+                    "value":"52648a7a-6cb0-4107-8d53-220eb12b24c3",
+                    "matchLevel":"none",
+                    "matchedWords":[
+                       
+                    ]
+                 }
+              }
+           ],
+           "Edges":{
+              "Searchandizings":[
+                 {
+                    "SearchandizingId":{
+                       "value":"f21eb4f5-679c-4b75-bf8c-39d65c676ae1",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"e51ae63f-e600-4385-bd92-fdcf023b9f81",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"ad9dcbf9-561c-41d2-981f-fff7a9c1df79",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"9cb4fa28-030c-4da4-81f2-246a950ca098",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 },
+                 {
+                    "SearchandizingId":{
+                       "value":"435c7868-9fc0-4c3c-bf23-38aa798da748",
+                       "matchLevel":"none",
+                       "matchedWords":[
+                          
+                       ]
+                    }
+                 }
+              ]
+           }
+        }
+     }
+  ],
+  "nbHits":5,
+  "page":0,
+  "nbPages":1,
+  "hitsPerPage":20,
+  "exhaustiveNbHits":true,
+  "query":"cak",
+  "params":"query=cak",
+  "processingTimeMS":1
+}

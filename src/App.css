@@ -1,0 +1,16 @@
+/* don't show link colors */
+a {
+   text-decoration: none;
+   color: black;
+} 
+
+body {
+   background-color:#ebf2f8;
+   font-family: 'RobotoDraft', 'Roboto', sans-serif;
+   padding: 20px;
+   text-align: center;
+}
+
+.results-container {
+   padding: 20px;
+}
